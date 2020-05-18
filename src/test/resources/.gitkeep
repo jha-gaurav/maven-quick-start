@@ -1,0 +1,13 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 8EE6-A3F0
+
+ Directory of D:\GJ_Office\Java_Projects\maven-quick-start
+
+18-05-2020  14:00    <DIR>          .
+18-05-2020  14:00    <DIR>          ..
+18-05-2020  12:58               279 .gitignore
+18-05-2020  13:31               377 pom.xml
+18-05-2020  12:58                67 README.md
+18-05-2020  14:01    <DIR>          src
+               3 File(s)            723 bytes
+               3 Dir(s)  107,633,455,104 bytes free
